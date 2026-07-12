@@ -4,7 +4,7 @@ Here you can find a chronological listing of this year's Orbitrap-IRMS seminars 
 Previous years' seminar listings can be found in the corresponding markdown (.md) files within this repository.
 
 
-
+  
 ## 2026
 
 <ins>Date</ins>: 25 June 2026  
