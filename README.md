@@ -3,7 +3,7 @@ Here you can find a reverse-chronological listing of this year's Orbitrap-IRMS s
 
 Previous years' seminar listings can be found in the corresponding markdown (.md) files within this repository.
 
-Clicking on the 'Discussions' icon in the top panel will send you to a page for community members to...discuss...seminar content long after the presentation has concluded.
+Clicking on the 'Discussions' icon in the top panel will send you to a page for community members to ... discuss ... seminar content long after the presentation has concluded.
 
   
 ## 2026
