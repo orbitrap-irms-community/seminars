@@ -1,5 +1,5 @@
 # Seminars
-Here you can find a chronological listing of this year's Orbitrap-IRMS seminars hosted by the isoOrbi group at the University of Colorado at Boulder.
+Here you can find a reverse-chronological listing of this year's Orbitrap-IRMS seminars hosted by the isoOrbi group at the University of Colorado at Boulder.
 
 Previous years' seminar listings can be found in the corresponding markdown (.md) files within this repository.
 
